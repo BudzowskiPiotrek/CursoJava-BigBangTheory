@@ -49,11 +49,11 @@ Salir:
 Permite al usuario terminar el programa manualmente y despedirse de Sheldon.
 
 Normas y puntuación
-El proyecto que presente errores de compilación y no permita su ejecución NO SE EVALUARÁ.
-El proyecto debe estar formateado correctamente evitando espacios innecesarios y texto comentado que no aporte ninguna funcionalidad (-0.5 puntos).
-Presentación: En el transcurso de la presentación, el nombre debe ser almacenado en una variable y ser utilizado cuando Sheldon se dirija a nosotros (1 punto).
-Menú: Implementación correcta del menú incluida la finalización del programa bajo la opción de salir (2 puntos).
-Apostar: Implementación correcta y funcional del método apostar() (2 puntos).
-Adivinar: Implementación correcta y funcional del método adivinar() (2 puntos).
-Jugar: Implementación correcta y funcional del método jugar() (2 puntos).
-Pelear: Implementación correcta y funcional del método pelear() (1 punto).
+  - El proyecto que presente errores de compilación y no permita su ejecución NO SE EVALUARÁ.
+  - El proyecto debe estar formateado correctamente evitando espacios innecesarios y texto comentado que no aporte ninguna funcionalidad (-0.5 puntos).
+  - Presentación: En el transcurso de la presentación, el nombre debe ser almacenado en una variable y ser utilizado cuando Sheldon se dirija a nosotros (1 punto).
+  - Menú: Implementación correcta del menú incluida la finalización del programa bajo la opción de salir (2 puntos).
+  - Apostar: Implementación correcta y funcional del método apostar() (2 puntos).
+  - Adivinar: Implementación correcta y funcional del método adivinar() (2 puntos).
+  - Jugar: Implementación correcta y funcional del método jugar() (2 puntos).
+  - Pelear: Implementación correcta y funcional del método pelear() (1 punto).
