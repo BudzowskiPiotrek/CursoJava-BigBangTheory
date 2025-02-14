@@ -1,5 +1,6 @@
 # CursoJava-BigBangTheory
-Examen Programación : Aplicación sobre seria "The Big Bang Theory" 
+Examen Programación : Aplicación sobre seria "The Big Bang Theory".
+
 Imagina que te mudas a un complejo de apartamentos en el 2311 de North Los Robles Avenue, Pasadena, California. Tu piso es el 5A y al llegar te encuentras que el ascensor no funciona, subes las escaleras y cuando llegas al apartamento estás totalmente agotado y justo cuando vas a entrar en él suena la llamada en la puerta. El comienzo del ejercicio deberá recrear esta conversación:
 
 (Tu vecino) Vecino. Vecino. Vecino.
@@ -10,11 +11,11 @@ Imagina que te mudas a un complejo de apartamentos en el 2311 de North Los Roble
 (Tú) Supongo que sí. ¿Qué tienes en mente?
 Tras esta conversación se mostrará un menú que se repetirá hasta que se decida salir. El menú debe permitir realizar varias opciones:
 
-Apostar
-Adivinar
-Jugar
-Pelear
-Salir
+  - Apostar
+  - Adivinar
+  - Jugar
+  - Pelear
+  -Salir
 Si elegimos:
 
 Apostar:
