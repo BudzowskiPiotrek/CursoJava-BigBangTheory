@@ -16,6 +16,7 @@ Tras esta conversación se mostrará un menú que se repetirá hasta que se deci
   - Jugar
   - Pelear
   -Salir
+
 Si elegimos:
 
 Apostar:
